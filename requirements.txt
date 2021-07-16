@@ -1,6 +1,7 @@
 jupyter-book==0.9.1
 matplotlib
 numpy
+pandas
 ghp-import
 ipywidgets
 sympy
