@@ -1,7 +1,7 @@
 Välkommen att använda Open Data
 ===============================
 
-Denna sida är en Jupyter Book. Här hittar du guider och övningar som hjälper dig behärska statistik och programmering med utgångspunkt i matematik.
+Denna sida är en Jupyter Book. Här hittar du guider och övningar som hjälper dig behärska statistik och programmering med utgångspunkt i fysik.
 Våra Notebooks med övningar och instruktioner hittar du i innehållsförteckningen i den vänstra kanten.
 När du öppnar en övning syns en förhandsgranskning. Du kan öppna den som en interaktiv Notebook enligt instruktionerna nedan:
 
