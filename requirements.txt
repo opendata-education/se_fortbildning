@@ -5,4 +5,3 @@ pandas
 ghp-import
 ipywidgets
 sympy
-random
