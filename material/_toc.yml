@@ -3,13 +3,6 @@
 - file: intro
 - part: Övningar
   chapters:
-  - file: ovningar/intro_1_jupyter_python
-  - file: ovningar/intro_2_statistik_i_python
-  - file: ovningar/intro_3_diagram_i_python
-  - file: ovningar/intro_4_funktion_i_python
-  - file: ovningar/anpassa_funktion
-  - file: ovningar/Statistikberäkningar
-  - file: ovningar/cms-exempel
-  - file: ovningar/Animationsexempel
-  - file: ovningar/Kartlagga_himlen
+  - file: ovningar/Fortbildning_1
+  - file: ovningar/Fortbildning_2
 
