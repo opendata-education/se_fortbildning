@@ -19,4 +19,4 @@ När du öppnar en övning syns en förhandsgranskning. Du kan öppna den som en
 1. Raketen visar en meny - välj "Binder"
 1. En kopia av Notebooken öppnas nu i Binder - det kan ta en minut eller två.
 
-![Kuva, jossa näytetään, että notebookin voi avata Binderissa painamalla sivun oikealla yläreunassa olevaa avaruusraketin kuvaa.](/kuvat/jupyter-book-example.png)
+![Kuva, jossa näytetään, että notebookin voi avata Binderissa painamalla sivun oikealla yläreunassa olevaa avaruusraketin kuvaa.](/kuvat/launchbinder.png)
