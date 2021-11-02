@@ -1,10 +1,12 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-- file: intro
-- part: Övningar
-  chapters:
-  - file: ovningar/Fortbildning_1
-  - file: ovningar/Fortbildning_2
+format: jb-book
+root: intro
+chapters:
+- file: ovningar/Fortbildningsstruktur/fortbildningsstruktur
+  sections:
+  - file: ovningar/Fortbildningsstruktur/Fortbildning_1
+  - file: ovningar/Fortbildningsstruktur/Fortbildning_2
 - file: ovningar/Videoexempel/videoexempel
   sections:
   - file: ovningar/Videoexempel/OpenData03
