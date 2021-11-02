@@ -5,4 +5,10 @@
   chapters:
   - file: ovningar/Fortbildning_1
   - file: ovningar/Fortbildning_2
+- file: ovningar/Videoexempel/videoexempel
+  sections:
+  - file: ovningar/Videoexempel/OpenData03
+  - file: ovningar/Videoexempel/OpenData04
+  - file: ovningar/Videoexempel/OpenData05
+  - file: ovningar/Videoexempel/OpenData07
 
