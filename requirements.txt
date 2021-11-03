@@ -5,3 +5,4 @@ pandas
 ghp-import
 ipywidgets
 sympy
+sphinx
